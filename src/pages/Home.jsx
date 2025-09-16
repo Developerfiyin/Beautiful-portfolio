@@ -1,5 +1,7 @@
-const Home = () => {
-  return <>
-  
-  </>
-}
+export const Home = () => {
+  return (
+    <>
+      <div className="min-h-screen" ></div>
+    </>
+  );
+};
